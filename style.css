@@ -1,0 +1,37 @@
+/* ------- без флексбокс і бутстрапа ------- */
+*{
+    margin: 0;
+    padding: 0;
+}
+.container_first{
+    width: 2000px;
+    height: 72px;
+    background-color: #194277;
+}
+.cookies{
+    max-width: 1200px;
+    margin: 0px auto;
+    padding-top: 22px;
+}
+.cookies_text{
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 36px;
+}
+.cookies_btn{
+    margin-left: 51px;
+    width: 112px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: #ffffff;
+}
+.cookies_btn_text{
+    color: #194277;
+    font-family: Lato;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 16.36px;
+    letter-spacing: 0.55px;
+}
