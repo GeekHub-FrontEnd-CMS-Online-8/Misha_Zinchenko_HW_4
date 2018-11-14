@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+
+/* ------------------------------------ */
+
 .container{
     width: 2000px;
     margin: 0 auto;
@@ -35,7 +38,6 @@
 
 .container_second{
     height: 800px;
-    background-color: #3695ff;
     background: linear-gradient(45deg, #3695ff 13%, #469dff 13%, #469dff 27%, #4098fe 27%, #4098fe 43%, #3c8fff 43%, #3c8fff 60%, #3681fe 60%);
 }
 .menu{
@@ -93,18 +95,18 @@ h1{
 
 /* ------------------------------------ */
 
-.about{
-    height: 400px;
+.container_third{
+    height: 300px;
     text-align: center;
 }
-.about h2{
+.container_third h2{
     color: #3677fd;
     font-size: 50px;
     font-weight: 300;
     line-height: 35.12px;
     margin: 70px;
 }
-.about p{
+.container_third p{
     color: #5a5a5a;
     font-size: 16px;
     font-weight: 400;
@@ -114,3 +116,47 @@ h1{
 
 /* ------------------------------------ */
 
+.container_fourth{
+    text-align: center;
+    height: 1145px;
+    background: #f1f8ff;
+    overflow: hidden;
+}
+.container_fourth h2 {
+    color: #3677fd;
+    font-family: Lato;
+    font-size: 50px;
+    font-weight: 300;
+    line-height: 35.12px;
+    padding-top: 100px;
+}
+.container_fourth h3{
+    color: #3677fd;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px;
+    text-transform: uppercase;
+    margin: 100px 0 30px 0;
+}
+.f_box p {
+    color: #5a5a5a;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 35px;
+}
+.f_box{
+    width: 401px;
+    height: 340px;
+    float: left;
+    margin-top: 113px; 
+}
+.first{
+    margin: 113px 0 0 335px ;
+}
+.second{
+    margin: 113px 63px 0 63px;
+}
+
+/* ------------------------------------ */
+
+.
