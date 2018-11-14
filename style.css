@@ -36,21 +36,60 @@
 .container_second{
     height: 800px;
     background-color: #3695ff;
-    background-image: linear-gradient(51deg, #3695ff 0%, #3564fc 100%);
+    background: linear-gradient(45deg, #3695ff 13%, #469dff 13%, #469dff 27%, #4098fe 27%, #4098fe 43%, #3c8fff 43%, #3c8fff 60%, #3681fe 60%);
 }
 .menu{
     margin-left: 1544px;
     padding-top: 31px;
 }
-.menu_img + .menu_ul {display:none}
-.menu_img:hover + .menu_ul {display:block}
+.menu_img_1 + .menu_ul {display:none}
+.menu_img_1:hover + .menu_ul {display:block}
 .circle{
-        width: 141px;
-        height: 141px;
-        border-radius: 100px;
-        border: 3px solid #ffffff;
-        box-shadow: 0 0 0 10px #599bff, 0 0 0 20px #4791fe;
-        background-color: #ffffff;
-        margin-left: 929px; 
-        margin-top: 115px;
+    width: 141px;
+    height: 141px;
+    border-radius: 100px;
+    border: 3px solid #ffffff;
+    box-shadow: 0 0 0 10px #599bff, 0 0 0 20px #4791fe;
+    background-color: #ffffff;
+    margin-left: 929px; 
+    margin-top: 100px;
+}
+h1{
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 60px;
+    text-transform: uppercase;
+    letter-spacing: 1.25px;
+    text-align: center;
+    margin-top: 76px;
+}
+.text{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 35px;
+    text-align: center;
+    margin-top: 42px;
+}
+.secret_text{
+    display: none;
+}
+.container_second_btn{
+    width: 204px;
+    height: 55px;
+    border-radius: 28px;
+    background-color: #ffffff;
+    margin-left: 899px;
+    margin-top: 65px; 
+}
+.hire_me{
+    height: 12px;
+    color: #3695ff;
+    font-size: 16px;
+    font-weight: 700;
+}
+.menu_img_2{
+    margin-top: 20px;
+    margin-left: 991px;
 }
