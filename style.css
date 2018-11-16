@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
 }
-
 h2{
     color: #3677fd;
     font-family: Lato;
@@ -14,7 +13,7 @@ h2{
 /* ------------------------------------ */
 
 .container{
-    width: 2000px;
+    width: 100%;
     margin: 0 auto;
 }
 .container_first{
