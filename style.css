@@ -3,6 +3,14 @@
     padding: 0;
 }
 
+h2{
+    color: #3677fd;
+    font-family: Lato;
+    font-size: 50px;
+    font-weight: 300;
+    line-height: 35.12px;
+}
+
 /* ------------------------------------ */
 
 .container{
@@ -99,11 +107,7 @@ h1{
     height: 300px;
     text-align: center;
 }
-.container_third h2{
-    color: #3677fd;
-    font-size: 50px;
-    font-weight: 300;
-    line-height: 35.12px;
+.container_third h2{;
     margin: 70px;
 }
 .container_third p{
@@ -123,11 +127,6 @@ h1{
     overflow: hidden;
 }
 .container_fourth h2 {
-    color: #3677fd;
-    font-family: Lato;
-    font-size: 50px;
-    font-weight: 300;
-    line-height: 35.12px;
     padding-top: 100px;
 }
 .container_fourth h3{
@@ -199,11 +198,6 @@ h1{
     text-align: center;
 }
 .container_sixth h2{
-    color: #3677fd;
-    font-family: Lato;
-    font-size: 50px;
-    font-weight: 300;
-    line-height: 35.12px;
     padding-top: 95px;
 }
 ul{
